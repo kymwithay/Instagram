@@ -2,7 +2,7 @@
 
 **Pictureagram** is a photo sharing app using Parse as its backend.
 
-Time spent: **X** hours spent in total
+Time spent: **76** hours spent in total
 
 ## User Stories
 
@@ -49,7 +49,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://firebasestorage.googleapis.com/v0/b/datasto-61f2f.appspot.com/o/instagif.gif?alt=media&token=2b4f3540-9de3-4aa6-999a-22dc4ffe9fef" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
